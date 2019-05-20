@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Reg",
+				"RegisterForm"
+			],
+			[
+				"User",
+				"UserAdminCreationForm"
+			],
+			[
+				"UserAdm",
+				"UserAdminChangeForm"
+			],
+			[
+				"create_",
+				"create_user"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"use",
+				"user_obj"
+			],
+			[
+				"auto_",
+				"auto_now_add"
+			],
+			[
+				"display",
+				"displaySubmitting"
+			],
+			[
+				"contact",
+				"contactFormEndPoint"
+			],
+			[
+				"conta",
+				"contactForm"
+			],
+			[
+				"sear",
+				"searchForm"
+			],
+			[
+				"typing",
+				"typingTimer"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"cart",
+				"cartBody"
+			],
+			[
+				"data",
+				"data-endpoint"
+			],
+			[
+				"refre",
+				"refreshCartMethod"
+			],
+			[
+				"this",
+				"thisForm"
+			],
+			[
+				"product",
+				"product_added"
+			],
+			[
+				"ht",
+				"httpMethod"
+			],
+			[
+				"action",
+				"actionEndpoint"
+			],
+			[
+				"address",
+				"address_line_1"
+			],
+			[
+				"addres",
+				"address_qs"
+			],
+			[
+				"shi",
+				"shipping_address"
+			],
+			[
+				"bi",
+				"billing_address"
+			],
+			[
+				"b",
+				"billing_address"
+			],
+			[
+				"ship",
+				"shipping_address"
+			],
+			[
+				"shipping",
+				"shipping_address_id"
+			],
+			[
+				"sh",
+				"shipping_address_id"
+			],
+			[
+				"bill",
+				"billing_address_id"
+			],
+			[
+				"billi",
+				"billing_address_form"
+			],
+			[
+				"A",
+				"ADDRESS_TYPES"
+			],
+			[
+				"B",
+				"BillingProfile"
+			],
+			[
+				"Bi",
+				"BillingProfileManager"
+			],
+			[
+				"new_",
+				"new_or_get"
+			],
+			[
+				"Order",
+				"OrderManager"
+			],
+			[
+				"billing",
+				"billing_profile"
+			],
+			[
+				"get",
+				"get_or_create"
+			],
+			[
+				"register",
+				"register_page"
+			],
+			[
+				"log",
+				"login_page"
+			],
+			[
+				"random",
+				"random_string_generator"
+			],
+			[
+				"get_",
+				"get_context_data"
+			],
+			[
+				"Pro",
+				"ProductDetailSlugView"
+			],
+			[
+				"unique",
+				"unique_slug_generator"
+			],
+			[
+				"get_object",
+				"get_object_or_404"
+			],
+			[
+				"new",
+				"new_filename"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"is",
+				"is_authenticated"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/accounts/admin.py",
+			"settings":
+			{
+				"buffer_size": 1522,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/orders/models.py",
+			"settings":
+			{
+				"buffer_size": 3062,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/evgeni/Dev/ecommerce",
+		"/home/evgeni/Dev/ecommerce/src",
+		"/home/evgeni/Dev/ecommerce/src/accounts",
+		"/home/evgeni/Dev/ecommerce/src/accounts/__pycache__",
+		"/home/evgeni/Dev/ecommerce/src/accounts/migrations",
+		"/home/evgeni/Dev/ecommerce/src/accounts/templates",
+		"/home/evgeni/Dev/ecommerce/src/accounts/templates/accounts",
+		"/home/evgeni/Dev/ecommerce/src/accounts/templates/accounts/snippets",
+		"/home/evgeni/Dev/ecommerce/src/addresses",
+		"/home/evgeni/Dev/ecommerce/src/addresses/templates",
+		"/home/evgeni/Dev/ecommerce/src/addresses/templates/addresses",
+		"/home/evgeni/Dev/ecommerce/src/billing",
+		"/home/evgeni/Dev/ecommerce/src/carts",
+		"/home/evgeni/Dev/ecommerce/src/carts/templates",
+		"/home/evgeni/Dev/ecommerce/src/carts/templates/carts",
+		"/home/evgeni/Dev/ecommerce/src/carts/templates/carts/snippets",
+		"/home/evgeni/Dev/ecommerce/src/ecommerce",
+		"/home/evgeni/Dev/ecommerce/src/orders",
+		"/home/evgeni/Dev/ecommerce/src/products",
+		"/home/evgeni/Dev/ecommerce/src/products/fixtures",
+		"/home/evgeni/Dev/ecommerce/src/products/templates",
+		"/home/evgeni/Dev/ecommerce/src/products/templates/products",
+		"/home/evgeni/Dev/ecommerce/src/products/templates/products/snippets",
+		"/home/evgeni/Dev/ecommerce/src/search",
+		"/home/evgeni/Dev/ecommerce/src/search/templates",
+		"/home/evgeni/Dev/ecommerce/src/search/templates/search",
+		"/home/evgeni/Dev/ecommerce/src/search/templates/search/snippets",
+		"/home/evgeni/Dev/ecommerce/src/static_my_proj",
+		"/home/evgeni/Dev/ecommerce/src/static_my_proj/css",
+		"/home/evgeni/Dev/ecommerce/src/static_my_proj/img",
+		"/home/evgeni/Dev/ecommerce/src/static_my_proj/js",
+		"/home/evgeni/Dev/ecommerce/src/tags",
+		"/home/evgeni/Dev/ecommerce/src/templates",
+		"/home/evgeni/Dev/ecommerce/src/templates/base",
+		"/home/evgeni/Dev/ecommerce/src/templates/bootstrap",
+		"/home/evgeni/Dev/ecommerce/src/templates/contact"
+	],
+	"file_history":
+	[
+		"/home/evgeni/Dev/ecommerce/src/products/models.py",
+		"/home/evgeni/Dev/ecommerce/src/accounts/forms.py",
+		"/home/evgeni/Dev/ecommerce/src/accounts/models.py",
+		"/home/evgeni/Dev/ecommerce/src/accounts/views.py",
+		"/home/evgeni/Dev/ecommerce/src/ecommerce/urls.py",
+		"/home/evgeni/Dev/ecommerce/src/ecommerce/settings.py",
+		"/home/evgeni/Dev/ecommerce/commands.txt",
+		"/home/evgeni/Dev/ecommerce/src/templates/base.html",
+		"/home/evgeni/Dev/ecommerce/src/templates/base/js.html",
+		"/home/evgeni/Dev/ecommerce/src/static_my_proj/js/ecommerce.js",
+		"/home/evgeni/Dev/ecommerce/src/templates/contact/view.html",
+		"/home/evgeni/Dev/ecommerce/src/ecommerce/forms.py",
+		"/home/evgeni/Dev/ecommerce/src/ecommerce/views.py",
+		"/home/evgeni/Dev/ecommerce/src/templates/base/css.html",
+		"/home/evgeni/Dev/ecommerce/src/static_my_proj/js/csrf.ajax.js",
+		"/home/evgeni/Dev/ecommerce/src/carts/views.py",
+		"/home/evgeni/Dev/ecommerce/src/search/templates/search/snippets/search-form.html",
+		"/home/evgeni/Dev/ecommerce/src/products/templates/products/snippets/update-cart.html",
+		"/home/evgeni/Dev/ecommerce/src/carts/templates/carts/snippets/remove-product.html",
+		"/home/evgeni/Dev/ecommerce/src/carts/templates/carts/home.html",
+		"/home/evgeni/Dev/ecommerce/src/products/views.py",
+		"/home/evgeni/Dev/ecommerce/src/products/templates/products/snippets/card.html",
+		"/home/evgeni/Dev/ecommerce/src/templates/base/navbar.html",
+		"/home/evgeni/Dev/ecommerce/src/carts/urls.py",
+		"/home/evgeni/Dev/ecommerce/src/carts/templates/carts/checkout.html",
+		"/home/evgeni/Dev/ecommerce/src/addresses/views.py",
+		"/home/evgeni/Dev/ecommerce/src/addresses/templates/addresses/prev_addresses.html",
+		"/home/evgeni/Dev/ecommerce/src/orders/models.py",
+		"/home/evgeni/Dev/ecommerce/src/carts/templates/carts/checkout-done.html",
+		"/home/evgeni/Dev/ecommerce/src/addresses/models.py",
+		"/home/evgeni/Dev/ecommerce/src/accounts/admin.py",
+		"/home/evgeni/Dev/ecommerce/src/addresses/templates/addresses/form.html",
+		"/home/evgeni/Dev/ecommerce/src/addresses/forms.py",
+		"/home/evgeni/Dev/ecommerce/src/addresses/admin.py",
+		"/home/evgeni/Dev/ecommerce/src/billing/models.py",
+		"/home/evgeni/Dev/ecommerce/src/accounts/templates/accounts/snippets/form.html",
+		"/home/evgeni/Dev/ecommerce/src/billing/admin.py",
+		"/home/evgeni/Dev/ecommerce/src/accounts/templates/accounts/login.html",
+		"/home/evgeni/Dev/ecommerce/src/templates/auth/login.html",
+		"/home/evgeni/Dev/ecommerce/src/carts/models.py",
+		"/home/evgeni/Dev/ecommerce/src/orders/apps.py",
+		"/home/evgeni/Dev/ecommerce/src/carts/admin.py",
+		"/home/evgeni/Dev/ecommerce/src/carts/apps.py",
+		"/home/evgeni/Dev/ecommerce/src/ecommerce/utils.py",
+		"/home/evgeni/Dev/ecommerce/src/orders/admin.py",
+		"/home/evgeni/Dev/ecommerce/src/tags/models.py",
+		"/home/evgeni/Dev/ecommerce/src/products/utils.py",
+		"/home/evgeni/Dev/ecommerce/src/products/templates/products/detail.html",
+		"/home/evgeni/Dev/ecommerce/src/products/urls.py",
+		"/home/evgeni/Dev/ecommerce/src/products/templates/products/list.html",
+		"/home/evgeni/Dev/ecommerce/src/tags/admin.py",
+		"/home/evgeni/Dev/ecommerce/src/search/urls.py",
+		"/home/evgeni/Dev/ecommerce/src/search/views.py",
+		"/home/evgeni/Dev/ecommerce/src/search/templates/search/view.html",
+		"/home/evgeni/Dev/ecommerce/src/templates/home_page.html",
+		"/home/evgeni/Dev/ecommerce/src/templates/auth/register.html",
+		"/home/evgeni/Dev/ecommerce/src/templates/bootstrap/example.html",
+		"/home/evgeni/Dev/ecommerce/static_cdn/static_root/css/main.css",
+		"/home/evgeni/Dev/ecommerce/src/static_my_proj/css/main.css",
+		"/home/evgeni/Dev/ecommerce/src/products/admin.py",
+		"/home/evgeni/Dev/ecommerce/src/products/templates/products/featured-detail.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$(document).ready(function(){\n\n\n// using jQuery\nfunction getCookie(name) {\n    var cookieValue = null;\n    if (document.cookie && document.cookie !== '') {\n        var cookies = document.cookie.split(';');\n        for (var i = 0; i < cookies.length; i++) {\n            var cookie = jQuery.trim(cookies[i]);\n            // Does this cookie string begin with the name we want?\n            if (cookie.substring(0, name.length + 1) === (name + '=')) {\n                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));\n                break;\n            }\n        }\n    }\n    return cookieValue;\n}\nvar csrftoken = getCookie('csrftoken');\n\nfunction csrfSafeMethod(method) {\n    // these HTTP methods do not require CSRF protection\n    return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));\n}\n$.ajaxSetup({\n    beforeSend: function(xhr, settings) {\n        if (!csrfSafeMethod(settings.type) && !this.crossDomain) {\n            xhr.setRequestHeader(\"X-CSRFToken\", csrftoken);\n        }\n    }\n});\n\n})",
+			"\n\t\t$(document).ready(function(){\n\t\t\t// Contact Form Handler\n\n\t\t\tvar contactForm = $(\".contact-form\")\n\t\t\tvar contactFormMethod = contactForm.attr(\"method\")\n\t\t\tvar contactFormEndPoint = contactForm.attr(\"action\")\n\n\t\t\t\n\t\t\tfunction displaySubmitting(submitBtn, defautlText, doSubmit){\n\t\t\t\t\n\t\t\t\tif(doSubmit)\n\t\t\t\t{\n\t\t\t\t\tsubmitBtn.addClass(\"disabled\")\n\t\t\t\t\tsubmitBtn.html(\"<i class='fa fa-spin fa-spinner'></i> Sending...\")\n\t\t\t\t} else {\n\t\t\t\t\tsubmitBtn.removeClass(\"disabled\")\n\t\t\t\t\tsubmitBtn.html(defautlText)\n\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\n\t\t\t}\n\t\t\t\n\t\t\tcontactForm.submit(function(event){\n\t\t\t\tevent.preventDefault()\n\t\t\t\t\n\t\t\t\tvar contactFormSubmitBtn = contactForm.find(\"[type='submit']\")\n\t\t\t\tvar contactFormSubmitBtnTxt = contactFormSubmitBtn.text()\n\n\t\t\t\tvar contactFormData = contactForm.serialize()\n\t\t\t\tvar thisForm = $(this)\n\t\t\t\tdisplaySubmitting(contactFormSubmitBtn, \"\", true)\n\t\t\t\t$.ajax({\n\t\t\t\t\tmethod: contactFormMethod,\n\t\t\t\t\turl: contactFormEndPoint,\n\t\t\t\t\tdata: contactFormData,\n\t\t\t\t\tsuccess: function(data){\n\t\t\t\t\t\tcontactForm[0].reset()\n\t\t\t\t\t\t$.alert({\n\t\t\t\t\t\t\ttitle: \"Success!\",\n\t\t\t\t\t\t\tcontent: data.message,\n\t\t\t\t\t\t\ttheme: \"modern\"\n\t\t\t\t\t\t})\n\t\t\t\t\t\tsetTimeout(function(){\n\t\t\t\t\t\t\tdisplaySubmitting(contactFormSubmitBtn, contactFormSubmitBtnTxt, false)\n\t\t\t\t\t\t}, 500)\n\t\t\t\t\t},\n\t\t\t\t\terror: function(error){\n\t\t\t\t\t\tvar jsonData = error.responseJSON\n\t\t\t\t\t\tvar msg = \"\"\n\n\t\t\t\t\t\t$.each(jsonData, function(key, value){\n\t\t\t\t\t\t\tmsg += key + \": \" + value[0].message + \"<br/>\"\n\t\t\t\t\t\t})\n\n\t\t\t\t\t\t$.alert({\n\t\t\t\t\t\t\ttitle: \"Oops!\",\n\t\t\t\t\t\t\tcontent: msg,\n\t\t\t\t\t\t\ttheme: \"modern\"\n\t\t\t\t\t\t})\n\t\t\t\t\t\tsetTimeout(function(){\n\t\t\t\t\t\t\tdisplaySubmitting(contactFormSubmitBtn, contactFormSubmitBtnTxt, false)\n\t\t\t\t\t\t}, 500)\n\t\t\t\t\t}\n\t\t\t\t})\n\t\t\t})\n\n\n\n\n\n\t\t\t// Auto Search\n\t\t\tvar searchForm = $(\".search-form\")\n\t\t\tvar searchInput = searchForm.find(\"[name='q']\")\n\t\t\tvar typingTimer;\n\t\t\tvar typingInterval = 500\n\t\t\tvar searchBtn = searchForm.find(\"[type='submit']\")\n\n\t\t\tsearchInput.keyup(function(event){\n\t\t\t\tclearTimeout(typingTimer)\n\t\t\t\ttypingTimer = setTimeout(performSearch, typingInterval)\n\t\t\t})\n\n\t\t\tsearchInput.keydown(function(event){\n\t\t\t\tclearTimeout(typingTimer)\n\t\t\t})\n\n\t\t\tfunction doSearch(){\n\t\t\t\tsearchBtn.addClass(\"disabled\")\n\t\t\t\tsearchBtn.html(\"<i class='fa fa-spin fa-spinner'></i> Searching...\")\t\t\t\t\t\n\t\t\t}\n\n\t\t\tfunction performSearch(){\n\t\t\t\tdoSearch()\n\t\t\t\tvar query = searchInput.val()\n\t\t\t\tsetTimeout(function(){\n\t\t\t\t\twindow.location.href='/search/?q=' + query\n\t\t\t\t}, 1000)\n\t\t\t\t\n\t\t\t}\n\n\n\t\t\t// Cart + Add Products\n\t\t\tvar productForm = $(\".form-product-ajax\")\n\n\t\t\tproductForm.submit(function(event){\n\t\t\t\tevent.preventDefault();\n\t\t\t\tvar thisForm = $(this)\n\t\t\t\t//var actionEndpoint = thisForm.attr(\"action\");\n\t\t\t\tvar actionEndpoint = thisForm.attr(\"data-endpoint\");\n\t\t\t\tvar httpMethod = thisForm.attr(\"method\");\n\t\t\t\tvar formData = thisForm.serialize();\n\n\t\t\t\t$.ajax({\n\t\t\t\t\turl: actionEndpoint,\n\t\t\t\t\tmethod: httpMethod,\n\t\t\t\t\tdata: formData,\n\t\t\t\t\tsuccess: function(data){\n\t\t\t\t\t\tvar submitSpan = thisForm.find(\".submit-span\")\n\t\t\t\t\t\tif (data.added){\n\t\t\t\t\t\t\tsubmitSpan.html(\"In cart <button type='submit' class='btn btn-link'>Remove?</button>\")\n\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\tsubmitSpan.html(\"<button type='submit' class='btn btn-success'>Add to cart</button>\")\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\tvar navbarCount = $(\".navbar-cart-count\")\n\t\t\t\t\t\tnavbarCount.text(data.cartItemCount)\n\t\t\t\t\t\tvar currentPath = window.location.href\n\t\t\t\t\t\tif(currentPath.indexOf(\"cart\") != -1)\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\trefreshCart()\n\t\t\t\t\t\t}\n\t\t\t\t\t},\n\t\t\t\t\terror: function(errorData){\n\t\t\t\t\t\t$.alert({\n\t\t\t\t\t\t\ttitle: \"Oops!\",\n\t\t\t\t\t\t\tcontent: \"An error occured\",\n\t\t\t\t\t\t\ttheme: \"modern\"\n\t\t\t\t\t\t})\n\t\t\t\t\t}\n\t\t\t\t})\n\t\t\t})\n\n\t\t\tfunction refreshCart(){\t\t\t\t\n\t\t\t\tvar cartTable = $(\".cart-table\")\n\t\t\t\tvar cartBody = cartTable.find(\".cart-body\")\n\t\t\t\t//cartBody.html(\"<h1>Changed</h1>\")\n\t\t\t\tvar productsRow = cartBody.find(\".cart-product\")\n\t\t\t\tvar currentUrl = window.location.href\n\n\t\t\t\tvar refreshCartUrl = '/api/cart/';\n\t\t\t\tvar refreshCartMethod = \"GET\";\n\t\t\t\tvar data ={};\n\n\t\t\t\t$.ajax({\n\t\t\t\t\turl: refreshCartUrl,\n\t\t\t\t\tmethod: refreshCartMethod,\n\t\t\t\t\tdata: data,\n\t\t\t\t\tsuccess: function(data){\n\n\t\t\t\t\t\tvar hiddenCartItemRemoveForm = $(\".cart-item-remove-form\")\n\t\t\t\t\t\tif (data.products.length > 0)\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tproductsRow.html(\"\")\n\t\t\t\t\t\t\ti = data.products.length\n\t\t\t\t\t\t\t$.each(data.products, function(index, value){\n\t\t\t\t\t\t\t\tvar newCartItemRemove = hiddenCartItemRemoveForm.clone()\n\t\t\t\t\t\t\t\tnewCartItemRemove.css(\"display\", \"block\")\n\t\t\t\t\t\t\t\tnewCartItemRemove.find(\".cart-item-product-id\").val(value.id)\n\t\t\t\t\t\t\t\tcartBody.prepend(\"<tr><th scope=\\\"row\\\">\" + i + \"</th><td><a href='\"+value.url+\"'>\" +\n\t\t\t\t\t\t\t\t\tvalue.name + \"</a>\" + newCartItemRemove.html() + \"</td><td>\" + value.price + \"</td></tr>\")\n\t\t\t\t\t\t\t\ti--\n\t\t\t\t\t\t\t})\n\t\t\t\t\t\t\tcartBody.find(\".cart-subtotal\").text(data.subtotal)\n\t\t\t\t\t\t\tcartBody.find(\".cart-total\").text(data.total)\n\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\twindow.location.href = currentUrl\n\t\t\t\t\t\t}\n\t\t\t\t\t\t\n\t\t\t\t\t},\n\t\t\t\t\terror: function(errorData){\n\t\t\t\t\t\t$.alert({\n\t\t\t\t\t\t\ttitle: \"Oops!\",\n\t\t\t\t\t\t\tcontent: \"An error occured\",\n\t\t\t\t\t\t\ttheme: \"modern\"\n\t\t\t\t\t\t})\n\t\t\t\t\t}\n\t\t\t\t})\n\t\t\t}\n\n\t\t})\n\n\t",
+			"{% extends \"base.html\" %}\n\n{% block content %}\n\n{{ object.order_id }} -- {{ object.cart }}\n\n\n\n{% if not billing_profile %}\n<div class='row text-center'>\n\t<div class='col-12 col-md-6'>\n\t\t<p class='lead'>Login</p>\n\t\t{% include 'accounts/snippets/form.html' with form=login_form next_url=request.build_absolute_uri %}\n\t</div>\n\t<div class='col-12 col-md-6'>\n\t\tContinue as Guest\n\n\t\t{% url \"guest_register\" as guest_register_url %}\n\t\t{% include 'accounts/snippets/form.html' with form=guest_form next_url=request.build_absolute_uri action_url=guest_register_url %}\n\t</div>\n</div>\n{% else %}\n\n{% if not object.shipping_address %}\n\n<div class='row'>\n\t<div class='col-md-6 mx-auto col-10'>\n\t\t<p class='lead'>Shipping Address</p>\n\t\t<hr/>\n\t\t<div class='row'>\n\t\t\t<div class='col-6'>\n\t\t\t\t{% url \"checkout_address_create\" as checkout_address_create %}\n\t\t\t\t{% include 'addresses/form.html' with form=address_form next_url=request.build_absolute_uri action_url=checkout_address_create address_type='shipping' %}\n\t\t\t</div>\n\n\t\t</div>\n\t\t<div class='col-6'>\n\t\t\t{% include 'addresses/prev_addresses.html' with address_qs=address_qs \n\t\t\tnext_url=request.build_absolute_uri %}\n\t\t</div>\n\t</div>\n\n\t{% elif not object.billing_address %}\n\t<div class='row'>\n\t\t<div class='col-12'>\n\t\t\t<p class='lead'>Billing Address</p>\n\t\t\t<hr/>\n\t\t</div>\n\t\t<div class='col-md-6 mx-auto col-10'>\n\n\t\t\t{% url \"checkout_address_create\" as checkout_address_create %}\n\t\t\t{% include 'addresses/form.html' with form=address_form next_url=request.build_absolute_uri action_url=checkout_address_create address_type='billing' %}\n\t\t</div>\n\t\t<div class='col-6'>\n\t\t\t{% include 'addresses/prev_addresses.html' with address_qs=address_qs \n\t\t\tnext_url=request.build_absolute_uri %}\n\t\t</div>\n\t</div>\n\t{% else %}\n\t<h1>Finalize Checkout</h1>\n\n\t<p>Cart Total : {{ object.cart.total }} </p>\n\t<p>Shipping Total : {{ object.shipping_total }} <p>\n\t\t<p>Order Total : {{ object.total }} <p>\n\t\t\t<form class='form' method='POST' action=\"\">{% csrf_token %}\n\t\t\t\t<button type='submit'>Checkout</button>\n\t\t\t</form>\n\n\t\t\t{% endif %}\n\t\t\t{% endif %}\n\n\t\t\t{% endblock %}",
+			"\t\t\t{% if address_qs.exists %}\n\t\t\t<div class='col-6'>\n\t\t\t\t<form method='POST' action='?'>\n\t\t\t\t{% for address in address_qs %}\n\t\t\t\t<label for='address-{{ address.id }}'>\n\t\t\t\t\t<input id='address-{{ address.id }}' type='radio' name='shipping_address' value='{{ address.id }}'/>\n\t\t\t\t{{ address.address_line_1 }}\n\t\t\t\t</label><br>\n\t\t\t\t{% endfor %}\n\t\t\t\t<button type='submit' class='btn btn-success'>Use Address</button>\n\t\t\t</form>\n\t\t\t</div>\n\t\t\t{% endif %}\n\t\t</div>",
+			"\")\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/evgeni/Dev/ecommerce"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/accounts/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								883,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/orders/models.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1972,
+								1972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 470.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
